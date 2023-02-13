@@ -13,7 +13,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 **[Sentiment_Analysis](https://github.com/Shivamsingh92/Sentiment_Analysis_of_flipkart_product)**
 
 Here we are interested to know the sentiment of the user regarding to this particular product,here data have been scrapped from the flipkart and have appiled Textblob
-and doing Tfidf with machine learning Analysis.
+and implemented the Tfidf for conversion  with machine learning algorithm for prediction.
 
 #
 
